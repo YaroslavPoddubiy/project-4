@@ -1,0 +1,680 @@
+[
+  {
+    "code": 11,
+    "name": "Науки про освіту",
+    "budget_places": 150,
+    "contract_places": 30
+  },
+  {
+    "code": 12,
+    "name": "Дошкільна освіта",
+    "budget_places": 120,
+    "contract_places": 25
+  },
+  {
+    "code": 13,
+    "name": "Початкова освіта",
+    "budget_places": 130,
+    "contract_places": 30
+  },
+  {
+    "code": 14,
+    "name": "Середня освіта (за предметними спеціалізаціями)",
+    "budget_places": 140,
+    "contract_places": 35
+  },
+  {
+    "code": 15,
+    "name": "Професійна освіта (за спеціалізаціями)",
+    "budget_places": 160,
+    "contract_places": 40
+  },
+  {
+    "code": 16,
+    "name": "Спеціальна освіта",
+    "budget_places": 170,
+    "contract_places": 45
+  },
+  {
+    "code": 17,
+    "name": "Фізична культура і спорт",
+    "budget_places": 180,
+    "contract_places": 50
+  },
+  {
+    "code": 21,
+    "name": "Аудіовізуальне мистецтво та виробництво",
+    "budget_places": 190,
+    "contract_places": 20
+  },
+  {
+    "code": 22,
+    "name": "Дизайн",
+    "budget_places": 200,
+    "contract_places": 25
+  },
+  {
+    "code": 23,
+    "name": "Образотворче мистецтво, декоративне мистецтво, реставрація",
+    "budget_places": 180,
+    "contract_places": 30
+  },
+  {
+    "code": 24,
+    "name": "Хореографія",
+    "budget_places": 170,
+    "contract_places": 35
+  },
+  {
+    "code": 25,
+    "name": "Музичне мистецтво",
+    "budget_places": 160,
+    "contract_places": 40
+  },
+  {
+    "code": 26,
+    "name": "Сценічне мистецтво",
+    "budget_places": 150,
+    "contract_places": 45
+  },
+  {
+    "code": 27,
+    "name": "Музеєзнавство, пам’яткознавство",
+    "budget_places": 140,
+    "contract_places": 50
+  },
+  {
+    "code": 28,
+    "name": "Менеджмент соціокультурної діяльності",
+    "budget_places": 130,
+    "contract_places": 20
+  },
+  {
+    "code": 29,
+    "name": "Інформаційна, бібліотечна та архівна справа",
+    "budget_places": 120,
+    "contract_places": 25
+  },
+  {
+    "code": 31,
+    "name": "Релігієзнавство",
+    "budget_places": 110,
+    "contract_places": 30
+  },
+  {
+    "code": 32,
+    "name": "Історія та археологія",
+    "budget_places": 100,
+    "contract_places": 35
+  },
+  {
+    "code": 33,
+    "name": "Філософія",
+    "budget_places": 150,
+    "contract_places": 40
+  },
+  {
+    "code": 34,
+    "name": "Культурологія",
+    "budget_places": 140,
+    "contract_places": 45
+  },
+  {
+    "code": 35,
+    "name": "Філологія",
+    "budget_places": 130,
+    "contract_places": 50
+  },
+  {
+    "code": 41,
+    "name": "Богослов’я",
+    "budget_places": 120,
+    "contract_places": 20
+  },
+  {
+    "code": 51,
+    "name": "Економіка",
+    "budget_places": 110,
+    "contract_places": 25
+  },
+  {
+    "code": 52,
+    "name": "Політологія",
+    "budget_places": 100,
+    "contract_places": 30
+  },
+  {
+    "code": 53,
+    "name": "Психологія",
+    "budget_places": 150,
+    "contract_places": 35
+  },
+  {
+    "code": 54,
+    "name": "Соціологія",
+    "budget_places": 140,
+    "contract_places": 40
+  },
+  {
+    "code": 55,
+    "name": "Міжнародні відносини, суспільні комунікації та регіональні студії",
+    "budget_places": 130,
+    "contract_places": 45
+  },
+  {
+    "code": 56,
+    "name": "Міжнародні економічні відносини",
+    "budget_places": 120,
+    "contract_places": 50
+  },
+  {
+    "code": 61,
+    "name": "Журналістика",
+    "budget_places": 110,
+    "contract_places": 20
+  },
+  {
+    "code": 71,
+    "name": "Облік і оподаткування",
+    "budget_places": 100,
+    "contract_places": 25
+  },
+  {
+    "code": 72,
+    "name": "Фінанси, банківська справа та страхування",
+    "budget_places": 150,
+    "contract_places": 30
+  },
+  {
+    "code": 73,
+    "name": "Менеджмент",
+    "budget_places": 140,
+    "contract_places": 35
+  },
+  {
+    "code": 74,
+    "name": "Публічне управління та адміністрування",
+    "budget_places": 130,
+    "contract_places": 40
+  },
+  {
+    "code": 75,
+    "name": "Маркетинг",
+    "budget_places": 120,
+    "contract_places": 45
+  },
+  {
+    "code": 76,
+    "name": "Підприємництво, торгівля та біржова діяльність",
+    "budget_places": 110,
+    "contract_places": 50
+  },
+  {
+    "code": 81,
+    "name": "Право",
+    "budget_places": 100,
+    "contract_places": 20
+  },
+  {
+    "code": 82,
+    "name": "Міжнародне право",
+    "budget_places": 150,
+    "contract_places": 25
+  },
+  {
+    "code": 91,
+    "name": "Біологія",
+    "budget_places": 140,
+    "contract_places": 30
+  },
+  {
+    "code": 101,
+    "name": "Екологія",
+    "budget_places": 130,
+    "contract_places": 35
+  },
+  {
+    "code": 102,
+    "name": "Хімія",
+    "budget_places": 120,
+    "contract_places": 40
+  },
+  {
+    "code": 103,
+    "name": "Науки про Землю",
+    "budget_places": 110,
+    "contract_places": 45
+  },
+  {
+    "code": 104,
+    "name": "Фізика та астрономія",
+    "budget_places": 100,
+    "contract_places": 50
+  },
+  {
+    "code": 105,
+    "name": "Прикладна фізика та наноматеріали",
+    "budget_places": 150,
+    "contract_places": 20
+  },
+  {
+    "code": 111,
+    "name": "Математика",
+    "budget_places": 140,
+    "contract_places": 25
+  },
+  {
+    "code": 112,
+    "name": "Статистика",
+    "budget_places": 130,
+    "contract_places": 30
+  },
+  {
+    "code": 113,
+    "name": "Прикладна математика",
+    "budget_places": 120,
+    "contract_places": 35
+  },
+  {
+    "code": 122,
+    "name": "Комп’ютерні науки та інформаційні технології",
+    "budget_places": 100,
+    "contract_places": 45
+  },
+  {
+    "code": 123,
+    "name": "Комп’ютерна інженерія",
+    "budget_places": 150,
+    "contract_places": 50
+  },
+  {
+    "code": 124,
+    "name": "Системний аналіз",
+    "budget_places": 140,
+    "contract_places": 20
+  },
+  {
+    "code": 125,
+    "name": "Кібербезпека",
+    "budget_places": 130,
+    "contract_places": 25
+  },
+  {
+    "code": 131,
+    "name": "Прикладна механіка",
+    "budget_places": 120,
+    "contract_places": 30
+  },
+  {
+    "code": 132,
+    "name": "Матеріалознавство",
+    "budget_places": 110,
+    "contract_places": 35
+  },
+  {
+    "code": 133,
+    "name": "Галузеве машинобудування",
+    "budget_places": 150,
+    "contract_places": 40
+  },
+  {
+    "code": 134,
+    "name": "Авіаційна та ракетно-космічна техніка",
+    "budget_places": 140,
+    "contract_places": 45
+  },
+  {
+    "code": 135,
+    "name": "Суднобудування",
+    "budget_places": 130,
+    "contract_places": 50
+  },
+  {
+    "code": 136,
+    "name": "Металургія",
+    "budget_places": 120,
+    "contract_places": 20
+  },
+  {
+    "code": 141,
+    "name": "Електроенергетика, електротехніка та електромеханіка",
+    "budget_places": 110,
+    "contract_places": 25
+  },
+  {
+    "code": 142,
+    "name": "Енергетичне машинобудування",
+    "budget_places": 150,
+    "contract_places": 30
+  },
+  {
+    "code": 143,
+    "name": "Атомна енергетика",
+    "budget_places": 140,
+    "contract_places": 35
+  },
+  {
+    "code": 144,
+    "name": "Теплоенергетика",
+    "budget_places": 130,
+    "contract_places": 40
+  },
+  {
+    "code": 145,
+    "name": "Гідроенергетика",
+    "budget_places": 120,
+    "contract_places": 45
+  },
+  {
+    "code": 151,
+    "name": "Автоматизація та комп’ютерно-інтегровані технології",
+    "budget_places": 110,
+    "contract_places": 50
+  },
+  {
+    "code": 152,
+    "name": "Метрологія та інформаційно-вимірювальна техніка",
+    "budget_places": 100,
+    "contract_places": 20
+  },
+  {
+    "code": 153,
+    "name": "Мікро- та наносистемна техніка",
+    "budget_places": 150,
+    "contract_places": 25
+  },
+  {
+    "code": 161,
+    "name": "Хімічні технології та інженерія",
+    "budget_places": 140,
+    "contract_places": 30
+  },
+  {
+    "code": 162,
+    "name": "Біотехнології та біоінженерія",
+    "budget_places": 130,
+    "contract_places": 35
+  },
+  {
+    "code": 163,
+    "name": "Біомедична інженерія",
+    "budget_places": 120,
+    "contract_places": 40
+  },
+  {
+    "code": 171,
+    "name": "Електроніка",
+    "budget_places": 110,
+    "contract_places": 45
+  },
+  {
+    "code": 172,
+    "name": "Телекомунікації та радіотехніка",
+    "budget_places": 100,
+    "contract_places": 50
+  },
+  {
+    "code": 173,
+    "name": "Авіоніка",
+    "budget_places": 150,
+    "contract_places": 20
+  },
+  {
+    "code": 181,
+    "name": "Харчові технології",
+    "budget_places": 140,
+    "contract_places": 25
+  },
+  {
+    "code": 182,
+    "name": "Технології легкої промисловості",
+    "budget_places": 130,
+    "contract_places": 30
+  },
+  {
+    "code": 183,
+    "name": "Технології захисту навколишнього середовища",
+    "budget_places": 120,
+    "contract_places": 35
+  },
+  {
+    "code": 184,
+    "name": "Гірництво",
+    "budget_places": 110,
+    "contract_places": 40
+  },
+  {
+    "code": 185,
+    "name": "Нафтогазова інженерія та технології",
+    "budget_places": 100,
+    "contract_places": 45
+  },
+  {
+    "code": 186,
+    "name": "Видавництво та поліграфія",
+    "budget_places": 150,
+    "contract_places": 50
+  },
+  {
+    "code": 191,
+    "name": "Архітектура та містобудування",
+    "budget_places": 140,
+    "contract_places": 20
+  },
+  {
+    "code": 192,
+    "name": "Будівництво та цивільна інженерія",
+    "budget_places": 130,
+    "contract_places": 25
+  },
+  {
+    "code": 193,
+    "name": "Геодезія та землеустрій",
+    "budget_places": 120,
+    "contract_places": 30
+  },
+  {
+    "code": 201,
+    "name": "Агрономія",
+    "budget_places": 110,
+    "contract_places": 35
+  },
+  {
+    "code": 202,
+    "name": "Захист і карантин рослин",
+    "budget_places": 100,
+    "contract_places": 40
+  },
+  {
+    "code": 203,
+    "name": "Садівництво та виноградарство",
+    "budget_places": 150,
+    "contract_places": 45
+  },
+  {
+    "code": 204,
+    "name": "Технологія виробництва і переробки продукції тваринництва",
+    "budget_places": 140,
+    "contract_places": 50
+  },
+  {
+    "code": 205,
+    "name": "Лісове господарство",
+    "budget_places": 130,
+    "contract_places": 20
+  },
+  {
+    "code": 206,
+    "name": "Садово-паркове господарство",
+    "budget_places": 120,
+    "contract_places": 25
+  },
+  {
+    "code": 207,
+    "name": "Водні біоресурси та аквакультура",
+    "budget_places": 110,
+    "contract_places": 30
+  },
+  {
+    "code": 208,
+    "name": "Агроінженерія",
+    "budget_places": 100,
+    "contract_places": 35
+  },
+  {
+    "code": 211,
+    "name": "Ветеринарна медицина",
+    "budget_places": 150,
+    "contract_places": 40
+  },
+  {
+    "code": 212,
+    "name": "Ветеринарна гігієна, санітарія і експертиза",
+    "budget_places": 140,
+    "contract_places": 45
+  },
+  {
+    "code": 221,
+    "name": "Стоматологія",
+    "budget_places": 130,
+    "contract_places": 50
+  },
+  {
+    "code": 222,
+    "name": "Медицина",
+    "budget_places": 120,
+    "contract_places": 20
+  },
+  {
+    "code": 223,
+    "name": "Медсестринство",
+    "budget_places": 110,
+    "contract_places": 25
+  },
+  {
+    "code": 224,
+    "name": "Технології медичної діагностики та лікування",
+    "budget_places": 100,
+    "contract_places": 30
+  },
+  {
+    "code": 225,
+    "name": "Медична та психологічна реабілітація",
+    "budget_places": 150,
+    "contract_places": 35
+  },
+  {
+    "code": 226,
+    "name": "Фармація",
+    "budget_places": 140,
+    "contract_places": 40
+  },
+  {
+    "code": 227,
+    "name": "Фізична реабілітація",
+    "budget_places": 130,
+    "contract_places": 45
+  },
+  {
+    "code": 231,
+    "name": "Соціальна робота",
+    "budget_places": 120,
+    "contract_places": 50
+  },
+  {
+    "code": 232,
+    "name": "Соціальне забезпечення",
+    "budget_places": 110,
+    "contract_places": 20
+  },
+  {
+    "code": 241,
+    "name": "Готельно-ресторанна справа",
+    "budget_places": 100,
+    "contract_places": 25
+  },
+  {
+    "code": 242,
+    "name": "Туризм",
+    "budget_places": 150,
+    "contract_places": 30
+  },
+  {
+    "code": 251,
+    "name": "Державна безпека",
+    "budget_places": 140,
+    "contract_places": 35
+  },
+  {
+    "code": 252,
+    "name": "Безпека державного кордону",
+    "budget_places": 130,
+    "contract_places": 40
+  },
+  {
+    "code": 253,
+    "name": "Військове управління (за видами збройних сил)",
+    "budget_places": 120,
+    "contract_places": 45
+  },
+  {
+    "code": 254,
+    "name": "Забезпечення військ (сил)",
+    "budget_places": 110,
+    "contract_places": 50
+  },
+  {
+    "code": 255,
+    "name": "Озброєння та військова техніка",
+    "budget_places": 100,
+    "contract_places": 20
+  },
+  {
+    "code": 261,
+    "name": "Пожежна безпека",
+    "budget_places": 150,
+    "contract_places": 25
+  },
+  {
+    "code": 262,
+    "name": "Правоохоронна діяльність",
+    "budget_places": 140,
+    "contract_places": 30
+  },
+  {
+    "code": 263,
+    "name": "Цивільна безпека",
+    "budget_places": 130,
+    "contract_places": 35
+  },
+  {
+    "code": 271,
+    "name": "Річковий та морський транспорт",
+    "budget_places": 120,
+    "contract_places": 40
+  },
+  {
+    "code": 272,
+    "name": "Авіаційний транспорт",
+    "budget_places": 110,
+    "contract_places": 45
+  },
+  {
+    "code": 273,
+    "name": "Залізничний транспорт",
+    "budget_places": 100,
+    "contract_places": 50
+  },
+  {
+    "code": 274,
+    "name": "Автомобільний транспорт",
+    "budget_places": 150,
+    "contract_places": 20
+  },
+  {
+    "code": 275,
+    "name": "Транспортні технології (за видами)",
+    "budget_places": 140,
+    "contract_places": 25
+  }
+]
